@@ -55,7 +55,7 @@ Initial SQL profiling checked record counts, duplicate IDs, missing values and c
   - Small: <= $10,000
   - Medium: > $10,000 and <= $20,000
   - High: > $20,000
-- **Net outcome:** total payments received minus the amount lent. A positive value is a profit (interest and fees); a negative value is a loss. <<CHECK: confirm which payment column you used and whether it already includes recoveries>>
+- **Net outcome:** total payments received minus the amount lent. A positive value is a profit (interest and fees); a negative value is a loss.
 - **Loss avoided:** the net loss on Charged Off loans in the restricted segment, i.e. the loss the lender would not have taken.
 - **Profit forgone:** the net profit on Fully Paid loans in the restricted segment, i.e. the profit the lender would have given up.
 - **Net impact of rule:** loss avoided minus profit forgone. A positive value means the rule would have saved money; a negative value means it would have cost money.
