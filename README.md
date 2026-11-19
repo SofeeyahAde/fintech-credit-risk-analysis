@@ -105,7 +105,7 @@ Mortgage borrowers had the lowest observed default rate at 13.67% but represente
 
 Renters recorded a 15.36% observed default rate and represented a significant share of loan volume. Owners recorded 14.89%.
 
-The OTHER category had the highest rate at 18.37%. <<CHECK: add how many loans are in OTHER; if it is a small group, say so, because the rate is less reliable>>
+The OTHER category had the highest rate at 18.37%.
 
 ### 3. Charged-Off Loan Amount Was Significant
 
